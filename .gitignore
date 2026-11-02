@@ -1,0 +1,9 @@
+# Ignore shapefiles and companion files
+borneo.*
+
+# Ignore specific Jupyter notebook
+Day1_groupingpoints.ipynb
+
+# Ignore ALL .json files anywhere in the repository
+*.json
+*.txt
