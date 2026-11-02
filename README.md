@@ -3,7 +3,9 @@
 **List of Map:**
 
 Day 1_Points : Indonesian Borneo Active Fires/Thermal Anomalies 2026
+
 Day 2_Line:
+
 Day 3_Polygon:
 
 
