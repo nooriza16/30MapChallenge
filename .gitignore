@@ -7,3 +7,5 @@ Day1_groupingpoints.ipynb
 # Ignore ALL .json files anywhere in the repository
 *.json
 *.txt
+*.csv.gz
+*.gpkg
