@@ -3,6 +3,8 @@ borneo.*
 
 # Ignore specific Jupyter notebook
 Day1_groupingpoints.ipynb
+Day3.ipynb
+
 
 # Ignore ALL .json files anywhere in the repository
 *.json
