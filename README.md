@@ -3,8 +3,11 @@
 > **List of Map:**
 
 Day 1_Points : Indonesian Borneo Active Fires/Thermal Anomalies 2026
+
 Day 2_Line: Street Network Orientation : My Hometown
+
 Day 3_Polygon: Buildings & Memory
+
 Day 4_Cluster: Hotspot for Airbnb listings with scenic view
 
 
